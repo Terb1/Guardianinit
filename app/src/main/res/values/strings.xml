@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Guardianinit</string>
+    <string name="cameras">Cameras</string>
+    <string name="central_de_alarme">Central de alarme</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="service_port_tcp">Porta de serviço tcp</string>
+    <string name="password">Senha:</string>
+    <string name="search">Pesquisa</string>
+    <string name="name">Nome</string>
+    <string name="device_user">Usuario do dispositivo</string>
+    <string name="device_password">Senha do dispositivo</string>
+    <string name="id_cloud">ID Cloud</string>
+    <string name="device_type">Tipo de dispositivo</string>
+    <string name="mac_adress">MAC Adress</string>
+    <string name="alarme">Alarme</string>
+    <string name="v_deo">Vídeo</string>
+    <string name="new_device">Novo dispositivo</string>
+    <string name="salvar">Salvar</string>
+</resources>
