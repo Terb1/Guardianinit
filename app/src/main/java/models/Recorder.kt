@@ -1,9 +1,15 @@
-package entity
+package models
 
 class Recorder(
+    // Postbody defined by API
+    var id: String = "",
     var name: String = "",
     var serial: String = "",
-    var port: Int? = null,
     var user: String = "",
     var password: String = ""
 )
+
+
+
+
+

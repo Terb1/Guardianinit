@@ -12,10 +12,16 @@
         android:theme="@style/Theme.Guardianinit"
         tools:targetApi="31">
         <activity
-            android:name=".RegisterActivity"
+            android:name="views.AlarmActiviy"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".AlarnActivity"
+            android:exported="false" />
+        <activity
+            android:name="views.RecorderActivity"
+            android:exported="false" />
+        <activity
+            android:name="views.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

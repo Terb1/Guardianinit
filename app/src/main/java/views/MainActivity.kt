@@ -1,9 +1,10 @@
-package com.pedro.guardianinit
+package views
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.pedro.guardianinit.R
 import com.pedro.guardianinit.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {

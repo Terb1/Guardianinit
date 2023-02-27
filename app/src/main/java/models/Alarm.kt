@@ -1,7 +1,7 @@
-package entity
+package models
 
-class Alarm(
+class Alarm (
     var name: String = "",
-    var MacAddres: String = "",
+    var macAddres: String = "",
     var password: String = ""
 )
