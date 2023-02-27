@@ -1,4 +1,0 @@
-package viewsmodels
-
-class RecorderRegister {
-}
