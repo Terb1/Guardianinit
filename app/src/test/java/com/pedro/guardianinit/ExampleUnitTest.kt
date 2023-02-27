@@ -1,4 +1,4 @@
-package com.pedro.guardianinit
+package com.pedro.views
 
 import org.junit.Test
 
